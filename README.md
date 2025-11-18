@@ -1,4 +1,4 @@
-# LocalTalkingAssistance — Local Voice Assistant
+[output.webm](https://github.com/user-attachments/assets/78cc3b7e-0cae-4f99-9eab-6bfded81f43a)# LocalTalkingAssistance — Local Voice Assistant
 
 > LocalTalkingAssistance is a simple, local voice assistant that runs on your computer. It listens, transcribes speech to text, processes the text, and speaks responses using local models — no cloud required.
 
@@ -7,12 +7,8 @@
 
 ## Output Audio
 
-<audio controls src="example/output.wav" title="Title"></audio>
+[output.webm](https://github.com/user-attachments/assets/11ae657c-fcea-4a14-9915-f785d62586c7)
 
-    <audio controls>
-      <source src="example/output.wav" type="audio/wav">
-      Your browser does not support the audio element.
-    </audio>
 
 ## Key Features
 - Multi-component voice pipeline: STT, TTS, trigger-word detection, and text processing.
