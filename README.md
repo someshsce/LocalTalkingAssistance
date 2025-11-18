@@ -7,7 +7,7 @@
 
 ## Output Audio
 
-<audio controls src="example/output.wav" title="Audio"></audio>
+<audio controls src="example/output.wav" title="Output AUdio"></audio>
 
 ## Key Features
 - Multi-component voice pipeline: STT, TTS, trigger-word detection, and text processing.
